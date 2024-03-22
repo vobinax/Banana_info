@@ -12,3 +12,4 @@ cd Banana_info
 ```
 bash sys_info.sh
 ```
+<img src="https://i.postimg.cc/TPdn4882/Untitled-Project-V3.gif">
